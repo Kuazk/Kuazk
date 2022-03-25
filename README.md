@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Kuazk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning about software development
+- 💞️ I’m looking to find SDE intern
+- 📫 How to reach me z1277436738@gmail.com
 
-<!---
-Kuazk/Kuazk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
